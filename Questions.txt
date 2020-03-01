@@ -1,9 +1,0 @@
-Answer the following questions using the free space provided with an example of the command needed to preform the following
-1. How do you append text to file?
-
-2. How do you start the auditor?
-
-3. How do you stop the policier?
-
-Extra credit: Give 4 examples of why a device can be on but not show as online in Addigy
-
